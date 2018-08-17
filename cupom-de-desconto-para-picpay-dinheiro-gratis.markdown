@@ -3,7 +3,7 @@ title: Cupom de desconto para PicPay Dinheiro grátis
 date: 2018-08-16 22:03:00 -03:00
 ---
 
-![Cupom de desconto para Meliuz Cashback](http://cupomdesconto.siteleaf.net/images/p2p-og-image.jpg)
+![Cupom de desconto para PicPay Dinheiro grátis](http://cupomdesconto.siteleaf.net/images/p2p-og-image.jpg)
 
 Pague a qualquer pessoa, Pague estabelecimentos e Transfira para sua conta bancária
 \
