@@ -3,7 +3,7 @@ title: Cupom de desconto para o Rappi delivery
 date: 2018-08-16 22:14:00 -03:00
 ---
 
-!\[Cupom de desconto para o Rappi delivery\](http://cupomdesconto.siteleaf.net/images/capa-768x410.jpg)
+![Cupom de desconto para o Rappi delivery](http://cupomdesconto.siteleaf.net/images/capa-768x410.jpg)
 
 Economize tempo e Receba suas compras em casa em menos de 1 hora. Receber Em mãos experientes um shopper seleciona seus produtos com amor. Entregas imediatas com rastreamento ao vivo. Pagar em dinheiro ou cartão de crédito sem compra mínima. Mais de 5 milhões de pedidos entregues.
 
