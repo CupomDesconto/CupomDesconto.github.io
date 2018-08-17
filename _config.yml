@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-theme: bravissimo
+theme: minima
 permalink: pretty
