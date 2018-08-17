@@ -10,6 +10,6 @@ Compre e tenha desconto / cupom (dinheiro de volta) em lojas como: [www.american
 
 Como funciona? [https://www.meliuz.com.br/como-funciona](https://www.meliuz.com.br/como-funciona)
 
-Cadastre-se e baixe aqui:
+Cadastre-se e baixe aqui para ter seu **cupom de desconto**:
 [https://www.meliuz.com.br/i/ref_a97a2c07?ref_source=2](https://www.meliuz.com.br/i/ref_a97a2c07?ref_source=2)
 [https://www.meliuz.com.br/i/ref_b5caf151?ref_source=2](https://www.meliuz.com.br/i/ref_b5caf151?ref_source=2)
