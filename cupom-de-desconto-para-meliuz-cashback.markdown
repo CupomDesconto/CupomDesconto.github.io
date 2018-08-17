@@ -3,6 +3,8 @@ title: Cupom de desconto para Meliuz Cashback
 date: 2018-08-16 21:35:00 -03:00
 ---
 
+![Cupom de desconto para Meliuz Cashback](http://cupomdesconto.siteleaf.net/images/meliuz-descontos-cashback-como-ganhar-dinheiro-de-volta-seguro-confiavel-660x330.png)
+
 Serviço de copum para comprar online nas suas lojas favoritas e aproveite e ganhe uma parte do dinheiro de volta sem precisar utilizar cupom de desconto.
 
 O Méliuz te ajuda a encontrar as lojas que oferecem cashback e você pode ativar o dinheiro de volta com apenas um clique.
