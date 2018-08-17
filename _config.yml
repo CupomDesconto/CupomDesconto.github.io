@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-theme: sparrow-theme
+theme: bravissimo
 permalink: pretty
