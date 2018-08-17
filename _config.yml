@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-theme: architect
+theme: minima
 permalink: pretty
