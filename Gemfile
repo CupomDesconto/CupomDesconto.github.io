@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 gem 'jekyll'
-gem 'minima'
+gem 'jekyll-theme-dinky', github: 'pages-themes/dinky'
