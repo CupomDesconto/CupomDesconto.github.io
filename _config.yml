@@ -1,6 +1,7 @@
 ---
 title: Cupom de Desconto
 timezone: America/Sao_Paulo
+theme: minima
 collections:
   posts:
     title: Posts
