@@ -30,3 +30,5 @@ Como funciona? [https://www.picpay.com/site/como-funciona](https://www.picpay.co
 Baixe agora e ganhe cupom de R$10,00:
 
 [http://www.picpay.com/convite?@WSSH](http://www.picpay.com/convite?@WSSH)
+
+[http://www.picpay.com/convite?@KQNY](http://www.picpay.com/convite?@KQNY)
