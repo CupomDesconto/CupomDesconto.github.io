@@ -722,7 +722,7 @@
     "rappi-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 100,00 em frete no seus primeiros pedidos na Rappi",
-        "title": "Rappi - Cupom de R$ 100,00 | Setembro de 2018",
+        "title": "Rappi - Cupom de R$ 100,00 | Dezembro de 2018",
         "order": 1
       },
       "components": [
@@ -1317,7 +1317,7 @@
     "onyo-app-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esta promoção você recebe 3 cupons que somam R$ 20,00 de desconto nas suas primeiras compras.",
-        "title": "Onyo app - Cupom de R$ 20,00 | Setembro de 2018",
+        "title": "Onyo app - Cupom de R$ 20,00 | Dezembro de 2018",
         "order": 3
       },
       "components": [
@@ -1912,7 +1912,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Setembro de 2018",
+        "title": "Meliuz Cashback - Cupom de desconto | Dezembro de 2018",
         "order": 2
       },
       "components": [
@@ -2525,7 +2525,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Setembro de 2018",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Dezembro de 2018",
         "order": 4
       },
       "components": [
@@ -3120,7 +3120,7 @@
     "uber-cupom-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 20,00 para viajar com o UBER",
-        "title": "UBER, Ganhe até R$ 20,00 com este cupom | Setembro de 2018",
+        "title": "UBER, Ganhe até R$ 20,00 com este cupom | Dezembro de 2018",
         "order": 5
       },
       "components": [
@@ -3715,7 +3715,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Setembro de 2018",
+        "title": "99 POP - Cupom de R$ 10,00 | Dezembro de 2018",
         "order": 6
       },
       "components": [
@@ -4292,7 +4292,7 @@
     "cabify-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida no Cabify",
-        "title": "Cabify - ganhe R$ 10,00 com este cupom de desconto | Setembro de 2018",
+        "title": "Cabify - ganhe R$ 10,00 com este cupom de desconto | Dezembro de 2018",
         "order": 7
       },
       "components": [
@@ -4869,7 +4869,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Setembro de 2018",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Dezembro de 2018",
         "order": 8
       },
       "components": [
@@ -5446,7 +5446,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Setembro de 2018",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Dezembro de 2018",
         "order": 9
       },
       "components": [
