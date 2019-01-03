@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cupom de Desconto",
-    "currentPage": "meliuz-cashback-cupom-de-desconto.html",
+    "currentPage": "grin-patinete-viagem-gratis.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 93,
-    "versionPublish": "4.8.8",
+    "versionPublish": "4.8.10",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://cupomdesconto.github.io",
@@ -6023,7 +6023,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Janeiro de 2019",
         "order": 10
       },
       "components": [
