@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cupom de Desconto",
-    "currentPage": "airbnb-ganhe-130-reais.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -722,7 +722,7 @@
     "rappi-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 100,00 em frete no seus primeiros pedidos na Rappi",
-        "title": "Rappi - Cupom de R$ 100,00 | Fevereiro de 2019",
+        "title": "Rappi - Cupom de R$ 100,00 | Março de 2019",
         "order": 1
       },
       "components": [
@@ -1317,7 +1317,7 @@
     "onyo-app-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esta promoção você recebe 3 cupons que somam R$ 20,00 de desconto nas suas primeiras compras.",
-        "title": "Onyo app - Cupom de R$ 20,00 | Fevereiro de 2019",
+        "title": "Onyo app - Cupom de R$ 20,00 | Março de 2019",
         "order": 3
       },
       "components": [
@@ -1854,7 +1854,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cef3dd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 1:</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Link: <a href=\"https://onyo.com/invite/#CARLOS4684\" target=\"_blank\">https://onyo.com/invite/#CARLOS4684</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM!&nbsp;🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cef3dd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 1: <b>CARLOS8738</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Link: <a href=\"https://onyo.com/invite/#CARLOS8738\" target=\"_blank\">https://onyo.com/invite/#CARLOS8738</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM!&nbsp;🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0WV8Ditd5",
           "_anchor": "content4-i",
           "_protectedParams": [],
@@ -1872,7 +1872,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f3cee4\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 2:</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><div>Link: <a href=\"https://onyo.com/invite/#PEDRO2040/\" target=\"_blank\">https://onyo.com/invite/#PEDRO2040/</a></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM! 🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f3cee4\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 2: <b>PEDRO7067</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><div>Link: <a href=\"https://onyo.com/invite/#PEDRO7067\" target=\"_blank\">https://onyo.com/invite/#PEDRO7067</a></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM! 🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0WV8DGwzR",
           "_anchor": "content4-j",
           "_protectedParams": [],
@@ -1912,7 +1912,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Fevereiro de 2019",
+        "title": "Meliuz Cashback - Cupom de desconto | Março de 2019",
         "order": 2
       },
       "components": [
@@ -2525,7 +2525,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Fevereiro de 2019",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Março de 2019",
         "order": 4
       },
       "components": [
@@ -3120,7 +3120,7 @@
     "uber-cupom-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 20,00 para viajar com o UBER",
-        "title": "UBER, Ganhe até R$ 20,00 com este cupom | Fevereiro de 2019",
+        "title": "UBER, Ganhe até R$ 20,00 com este cupom | Março de 2019",
         "order": 5
       },
       "components": [
@@ -3715,7 +3715,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Fevereiro de 2019",
+        "title": "99 POP - Cupom de R$ 10,00 | Março de 2019",
         "order": 6
       },
       "components": [
@@ -4292,7 +4292,7 @@
     "cabify-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida no Cabify",
-        "title": "Cabify - ganhe R$ 10,00 com este cupom de desconto | Fevereiro de 2019",
+        "title": "Cabify - ganhe R$ 10,00 com este cupom de desconto | Março de 2019",
         "order": 7
       },
       "components": [
@@ -4869,7 +4869,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Fevereiro de 2019",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Março de 2019",
         "order": 8
       },
       "components": [
@@ -5446,7 +5446,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Fevereiro de 2019",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Março de 2019",
         "order": 9
       },
       "components": [
@@ -6023,7 +6023,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis | Fevereiro de 2019",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Março de 2019",
         "order": 10
       },
       "components": [
@@ -6620,7 +6620,7 @@
     "airbnb-ganhe-130-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esse cupom você ganha R$ 130,00 para se hospedar pela primeira vez no AirBnb.",
-        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Fevereiro de 2019",
+        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Março de 2019",
         "order": 11
       },
       "components": [
