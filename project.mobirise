@@ -47,7 +47,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 104,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://cupomdesconto.github.io",
@@ -58,7 +58,7 @@
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///C:/CupomDesconto.github.io"
+    "publishPath": "file:///C:/Users/carlo/Desktop/CupomDesconto.github.io"
   },
   "pages": {
     "index.html": {
@@ -791,7 +791,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Maio de 2019",
+        "title": "Meliuz Cashback - Cupom de desconto | Junho de 2019",
         "order": 2
       },
       "components": [
@@ -1404,7 +1404,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Maio de 2019",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Junho de 2019",
         "order": 4
       },
       "components": [
@@ -1999,7 +1999,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Maio de 2019",
+        "title": "99 POP - Cupom de R$ 10,00 | Junho de 2019",
         "order": 6
       },
       "components": [
@@ -2576,7 +2576,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Maio de 2019",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Junho de 2019",
         "order": 7
       },
       "components": [
@@ -3153,7 +3153,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Maio de 2019",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Junho de 2019",
         "order": 9
       },
       "components": [
@@ -3730,7 +3730,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis | Maio de 2019",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Junho de 2019",
         "order": 10
       },
       "components": [
@@ -4327,7 +4327,7 @@
     "airbnb-ganhe-130-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esse cupom você ganha R$ 130,00 para se hospedar pela primeira vez no AirBnb.",
-        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Maio de 2019",
+        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Junho de 2019",
         "order": 12
       },
       "components": [
@@ -4904,7 +4904,7 @@
     "rappi-frete-gratis-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe FRETE GRÁTIS e mais R$ 100,00 para usar nos próximos fretes",
-        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Maio de 2019",
+        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Junho de 2019",
         "order": 1
       },
       "components": [
@@ -5472,7 +5472,7 @@
     "shell-box-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 20,00 no primeiro abastecimento, use este cupom",
-        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Maio de 2019",
+        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Junho de 2019",
         "order": 13
       },
       "components": [
@@ -6049,7 +6049,7 @@
     "james-delivery-20-reais-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$20,00 na sua primeira conta no app James Delivery",
-        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Maio de 2019",
+        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Junho de 2019",
         "order": 11
       },
       "components": [
@@ -6646,7 +6646,7 @@
     "uber-cupom-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 10,00 para viajar com o UBER",
-        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Maio de 2019",
+        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Junho de 2019",
         "order": 5
       },
       "components": [
@@ -7241,7 +7241,7 @@
     "uber-eats-15-reais-deconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 15,00 em descontos nos seus pedidos de comida no Uber Eats",
-        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Maio de 2019",
+        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Junho de 2019",
         "order": 8
       },
       "components": [
@@ -7791,7 +7791,7 @@
     "onyo-app-ganhe-5-reais.html": {
       "settings": {
         "meta_descr": "💰 Use este cupom e ganhe R$  5,00 no seu primeiro pedido.",
-        "title": "Onyo app - Cupom de R$ 5,00 | Maio de 2019",
+        "title": "Onyo app - Cupom de R$ 5,00 | Junho de 2019",
         "order": 3
       },
       "components": [
