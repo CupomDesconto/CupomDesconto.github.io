@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cupom de Desconto",
-    "currentPage": "onyo-app-ganhe-5-reais.html",
+    "currentPage": "waze-carpool-carona-gratis.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 105,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.10.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://cupomdesconto.github.io",
@@ -791,7 +791,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Junho de 2019",
+        "title": "Meliuz Cashback - Cupom de desconto | Julho de 2019",
         "order": 2
       },
       "components": [
@@ -1404,7 +1404,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Junho de 2019",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Julho de 2019",
         "order": 4
       },
       "components": [
@@ -1999,7 +1999,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Junho de 2019",
+        "title": "99 POP - Cupom de R$ 10,00 | Julho de 2019",
         "order": 6
       },
       "components": [
@@ -2576,7 +2576,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Junho de 2019",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Julho de 2019",
         "order": 7
       },
       "components": [
@@ -3153,7 +3153,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Junho de 2019",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Julho de 2019",
         "order": 9
       },
       "components": [
@@ -3690,7 +3690,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cef3dd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 1:</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><div><span style=\"font-size: 1.5rem;\">Código: <b>CARLOd2dBO</b></span></div><div><span style=\"font-size: 1.5rem;\">Link: <a href=\"https://www.waze.com/carpool/referral?a=redeem_referral&referral_token=tk.78f99b8d-f7ab-4a6f-9ce7-fa228166374d\" target=\"_blank\">https://www.waze.com/carpool/referral?a=redeem_referral&amp;referral_token=tk.78f99b8d-f7ab-4a6f-9ce7-fa228166374d</a></span><br></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM! 🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cef3dd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Cupom 1:</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><div><span style=\"font-size: 1.5rem;\">Código: <b>CLARAwcFBn</b></span></div><div><span style=\"font-size: 1.5rem;\">Link: <a href=\"https://waze.app.goo.gl/VX2WR\" target=\"_blank\">https://waze.app.goo.gl/VX2WR</a></span><br></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://cupomdesconto.github.io\" data-app-placeholder=\"Type Text\">PEGAR CUPOM! 🏆</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r3nQkBZcw5",
           "_anchor": "content4-2c",
           "_protectedParams": [],
@@ -3730,7 +3730,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis | Junho de 2019",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Julho de 2019",
         "order": 10
       },
       "components": [
@@ -4346,7 +4346,7 @@
     "airbnb-ganhe-130-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esse cupom você ganha R$ 130,00 para se hospedar pela primeira vez no AirBnb.",
-        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Junho de 2019",
+        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Julho de 2019",
         "order": 12
       },
       "components": [
@@ -4923,7 +4923,7 @@
     "rappi-frete-gratis-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe FRETE GRÁTIS e mais R$ 100,00 para usar nos próximos fretes",
-        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Junho de 2019",
+        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Julho de 2019",
         "order": 1
       },
       "components": [
@@ -5491,7 +5491,7 @@
     "shell-box-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 20,00 no primeiro abastecimento, use este cupom",
-        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Junho de 2019",
+        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Julho de 2019",
         "order": 13
       },
       "components": [
@@ -6068,7 +6068,7 @@
     "james-delivery-20-reais-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$20,00 na sua primeira conta no app James Delivery",
-        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Junho de 2019",
+        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Julho de 2019",
         "order": 11
       },
       "components": [
@@ -6665,7 +6665,7 @@
     "uber-cupom-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 10,00 para viajar com o UBER",
-        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Junho de 2019",
+        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Julho de 2019",
         "order": 5
       },
       "components": [
@@ -7260,7 +7260,7 @@
     "uber-eats-15-reais-deconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 15,00 em descontos nos seus pedidos de comida no Uber Eats",
-        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Junho de 2019",
+        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Julho de 2019",
         "order": 8
       },
       "components": [
@@ -7810,7 +7810,7 @@
     "onyo-app-ganhe-5-reais.html": {
       "settings": {
         "meta_descr": "💰 Use este cupom e ganhe R$  5,00 no seu primeiro pedido.",
-        "title": "Onyo app - Cupom de R$ 5,00 | Junho de 2019",
+        "title": "Onyo app - Cupom de R$ 5,00 | Julho de 2019",
         "order": 3
       },
       "components": [
