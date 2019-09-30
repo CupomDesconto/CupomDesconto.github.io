@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cupom de Desconto",
-    "currentPage": "waze-carpool-carona-gratis.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,8 +46,8 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 106,
-    "versionPublish": "4.10.8",
+    "uniqCompNum": 107,
+    "versionPublish": "4.10.15",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://cupomdesconto.github.io",
@@ -561,11 +561,11 @@
           "_name": "features3",
           "_customHTML": "<section class=\"features3\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImage\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Cards Bg\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"@PROJECT_PATH@/assets/images/courier-jump-1-805x850.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">James Delivery</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Game R$ 20,00 de desconto na primeira compra\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"james-delivery-20-reais-desconto.html\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\">\n                            Ver Cupom</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"@PROJECT_PATH@/assets/images/cupom-promocao-onyo-app-700x420.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Onyo\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Com esta promoção você R$ 5,00 de desconto na sua primeira compra.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"onyo-app-ganhe-5-reais.html\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\">\n                            Ver Cupom</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"@PROJECT_PATH@/assets/images/unnamed-512x250.png\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Waze Carpool</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Ganhe uma carona grátis no Waze Carpool\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"waze-carpool-carona-gratis.html\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\">\n                            Ver Cupom</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6 col-lg-3\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background4.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBBTKwXcRA",
+          "_anchor": "features3-2x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features3-2x"
+          "_params": {}
         },
         {
           "_styles": {
@@ -857,7 +857,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Setembro de 2019",
+        "title": "Meliuz Cashback - Cupom de desconto | Outubro de 2019",
         "order": 2
       },
       "components": [
@@ -1470,7 +1470,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Setembro de 2019",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Outubro de 2019",
         "order": 4
       },
       "components": [
@@ -2065,7 +2065,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Setembro de 2019",
+        "title": "99 POP - Cupom de R$ 10,00 | Outubro de 2019",
         "order": 6
       },
       "components": [
@@ -2642,7 +2642,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Setembro de 2019",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Outubro de 2019",
         "order": 7
       },
       "components": [
@@ -3219,7 +3219,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Setembro de 2019",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Outubro de 2019",
         "order": 9
       },
       "components": [
@@ -3796,7 +3796,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis | Setembro de 2019",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Outubro de 2019",
         "order": 10
       },
       "components": [
@@ -4412,7 +4412,7 @@
     "airbnb-ganhe-130-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esse cupom você ganha R$ 130,00 para se hospedar pela primeira vez no AirBnb.",
-        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Setembro de 2019",
+        "title": "AirBnb - Ganhe R$ 130 na primeira hospedagem | Outubro de 2019",
         "order": 12
       },
       "components": [
@@ -4989,7 +4989,7 @@
     "rappi-frete-gratis-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe FRETE GRÁTIS e mais R$ 100,00 para usar nos próximos fretes",
-        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Setembro de 2019",
+        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Outubro de 2019",
         "order": 1
       },
       "components": [
@@ -5557,7 +5557,7 @@
     "shell-box-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 20,00 no primeiro abastecimento, use este cupom",
-        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Setembro de 2019",
+        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Outubro de 2019",
         "order": 13
       },
       "components": [
@@ -6134,7 +6134,7 @@
     "james-delivery-20-reais-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$20,00 na sua primeira conta no app James Delivery",
-        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Setembro de 2019",
+        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Outubro de 2019",
         "order": 11
       },
       "components": [
@@ -6731,7 +6731,7 @@
     "uber-cupom-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 10,00 para viajar com o UBER",
-        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Setembro de 2019",
+        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Outubro de 2019",
         "order": 5
       },
       "components": [
@@ -7326,7 +7326,7 @@
     "uber-eats-15-reais-deconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 15,00 em descontos nos seus pedidos de comida no Uber Eats",
-        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Setembro de 2019",
+        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Outubro de 2019",
         "order": 8
       },
       "components": [
@@ -7876,7 +7876,7 @@
     "onyo-app-ganhe-5-reais.html": {
       "settings": {
         "meta_descr": "💰 Use este cupom e ganhe R$  5,00 no seu primeiro pedido.",
-        "title": "Onyo app - Cupom de R$ 5,00 | Setembro de 2019",
+        "title": "Onyo app - Cupom de R$ 5,00 | Outubro de 2019",
         "order": 3
       },
       "components": [
