@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cupom de Desconto",
-    "currentPage": "grin-patinete-viagem-gratis.html",
+    "currentPage": "rappi-frete-gratis-cupom-100-reais.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#fff490",
         "#cef3dd",
         "#b9e3d8",
         "#a1ffca",
         "#d1d1ff",
         "#9eceff",
-        "#b7f1f9"
+        "#b7f1f9",
+        "#f3cee4"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -43,16 +43,11 @@
         "css": "'Roboto', sans-serif",
         "name": "Roboto",
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
-      },
-      {
-        "css": "'Rubik', sans-serif",
-        "name": "Rubik",
-        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 120,
-    "versionPublish": "4.11.6",
+    "uniqCompNum": 104,
+    "versionPublish": "4.9.7",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://cupomdesconto.github.io",
@@ -61,7 +56,9 @@
     "noImageResize": "",
     "google-analytics": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-MTB42XJ');</script>\r\n<!-- End Google Tag Manager -->\r\n\r\n<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MTB42XJ\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->\r\n\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n  (adsbygoogle = window.adsbygoogle || []).push({\r\n    google_ad_client: \"ca-pub-3587360032089508\",\r\n    enable_page_level_ads: true\r\n  });\r\n</script>",
     "sitemapSwitcher": "on",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/carlo/Desktop/CupomDesconto.github.io"
   },
   "pages": {
     "index.html": {
@@ -926,7 +923,7 @@
     "meliuz-cashback-cupom-de-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 5,00 de cashback na primeira compra",
-        "title": "Meliuz Cashback - Cupom de desconto | Dezembro de 2019",
+        "title": "Meliuz Cashback - Cupom de desconto | Janiero de 2019",
         "order": 2
       },
       "components": [
@@ -1539,7 +1536,7 @@
     "picpay-cupom-para-ganhar-dinheiro-gratis.html": {
       "settings": {
         "meta_descr": "💰 Baixe agora e ganhe cupom de R$ 10,00",
-        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Dezembro de 2019",
+        "title": "PicPay app - Ganhe R$ 10,00 com este cupom | Janiero de 2019",
         "order": 4
       },
       "components": [
@@ -2134,7 +2131,7 @@
     "99-pop-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 na sua primeira corrida com o 99 POP",
-        "title": "99 POP - Cupom de R$ 10,00 | Dezembro de 2019",
+        "title": "99 POP - Cupom de R$ 10,00 | Janiero de 2019",
         "order": 6
       },
       "components": [
@@ -2731,7 +2728,7 @@
     "waze-carpool-30-reais-na-primeira-carona.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 30,00 ao dar sua primeira carona no Waze Carpool",
-        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Dezembro de 2019",
+        "title": "Waze Carpool - Ganhe R$ 30,00 ao dar a primeira carona | Janiero de 2019",
         "order": 7
       },
       "components": [
@@ -3328,7 +3325,7 @@
     "waze-carpool-carona-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma carona grátis no Waze Carpool, use este cupom",
-        "title": "Waze Carpool - Ganhe uma  carona grátis! | Dezembro de 2019",
+        "title": "Waze Carpool - Ganhe uma  carona grátis! | Janiero de 2019",
         "order": 9
       },
       "components": [
@@ -3905,7 +3902,7 @@
     "grin-patinete-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  uma viagem grátis usando esse cupom no Grin Patinete Elétrico",
-        "title": "Grin Patinete - Ganhe uma viagem grátis | Dezembro de 2019",
+        "title": "Grin Patinete - Ganhe uma viagem grátis | Janiero de 2019",
         "order": 10
       },
       "components": [
@@ -4522,7 +4519,7 @@
     "airbnb-ganhe-130-reais.html": {
       "settings": {
         "meta_descr": "💰 Com esse cupom você ganha R$ 130,00 para se hospedar pela primeira vez no AirBnb.",
-        "title": "AirBnb - Ganhe R$ 179 na primeira hospedagem | Dezembro de 2019",
+        "title": "AirBnb - Ganhe R$ 179 na primeira hospedagem | Janiero de 2019",
         "order": 13
       },
       "components": [
@@ -5119,7 +5116,7 @@
     "rappi-frete-gratis-cupom-100-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe FRETE GRÁTIS e mais R$ 100,00 para usar nos próximos fretes",
-        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Dezembro de 2019",
+        "title": "Rappi - Frete Grátis e Cupom de R$ 100,00 | Janiero de 2019",
         "order": 1
       },
       "components": [
@@ -5687,7 +5684,7 @@
     "shell-box-ganhe-20-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 20,00 no primeiro abastecimento, use este cupom",
-        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Dezembro de 2019",
+        "title": "Shell Box - Ganhe R$ 20,00 no seu 1º abastecimento | Janiero de 2019",
         "order": 14
       },
       "components": [
@@ -6264,7 +6261,7 @@
     "james-delivery-20-reais-desconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$20,00 na sua primeira conta no app James Delivery",
-        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Dezembro de 2019",
+        "title": "James Delivery - Cupom de desconto ganhe R$ 20,00 na primeira compra | Janiero de 2019",
         "order": 12
       },
       "components": [
@@ -6861,7 +6858,7 @@
     "uber-cupom-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 10,00 para viajar com o UBER",
-        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Dezembro de 2019",
+        "title": "UBER - Ganhe até R$ 10,00 com este cupom | Janiero de 2019",
         "order": 5
       },
       "components": [
@@ -7456,7 +7453,7 @@
     "uber-eats-15-reais-deconto.html": {
       "settings": {
         "meta_descr": "💰 Ganhe até R$ 15,00 em descontos nos seus pedidos de comida no Uber Eats",
-        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Dezembro de 2019",
+        "title": "UBER Eats - Ganhe até R$ 15,00 em descontos | Janiero de 2019",
         "order": 8
       },
       "components": [
@@ -8026,7 +8023,7 @@
     "onyo-app-ganhe-5-reais.html": {
       "settings": {
         "meta_descr": "💰 Use este cupom e ganhe R$  5,00 no seu primeiro pedido.",
-        "title": "Onyo app - Cupom de R$ 5,00 | Dezembro de 2019",
+        "title": "Onyo app - Cupom de R$ 5,00 | Janiero de 2019",
         "order": 3
       },
       "components": [
@@ -8621,7 +8618,7 @@
     "recargapay-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 para  pagar qualquer boleto, recarregar o celular ou o Bilhete Único!",
-        "title": "RecargaPay - Ganhe R$ 10 para recarregar o celular, pagar boleto e etc | Dezembro 2019",
+        "title": "RecargaPay - Ganhe R$ 10 para recarregar o celular, pagar boleto e etc | Janiero 2019",
         "order": 15
       },
       "components": [
@@ -9191,7 +9188,7 @@
     "mercado-pago-ganhe-10-reais.html": {
       "settings": {
         "meta_descr": "💰 Ganhe R$ 10,00 grátis para fazer recarga de celular",
-        "title": "Mercado Pago - Ganhe R$ 10,00 para recarregar o seu celular | Dezembro 2019",
+        "title": "Mercado Pago - Ganhe R$ 10,00 para recarregar o seu celular | Janiero 2019",
         "order": 16
       },
       "components": [
@@ -9741,7 +9738,7 @@
     "yellow-cupom-viagem-gratis.html": {
       "settings": {
         "meta_descr": "💰 Ganhe  a primeira viagem grátis usando esse cupom no app Yellow Patinete e Bike",
-        "title": "Yellow Patinete e Bicileta - 1ª viagem grátis | Dezembro de 2019",
+        "title": "Yellow Patinete e Bicileta - 1ª viagem grátis | Janiero de 2019",
         "order": 11
       },
       "components": [
